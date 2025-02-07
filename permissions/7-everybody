@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 777 hello
+chown 444 hello
