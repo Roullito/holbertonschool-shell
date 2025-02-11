@@ -4,6 +4,14 @@
 
 # Holberton School - Shell Projects
 
+## Table des Matières
+
+- [Basics](#basics)
+- [Permissions](#permissions)
+- [I/O Redirections and Filters](#io-redirections-and-filters)
+- [Init Files, Variables and Expansions](#init-files-variables-and-expansions)
+
+
 ## Description
 
 Ce repository contient plusieurs projets liés à l'utilisation du shell Bash dans un environnement Linux. Chaque dossier correspond à un sujet spécifique et comprend des scripts permettant de manipuler des fichiers, gérer les permissions, exécuter des commandes et bien plus encore.
