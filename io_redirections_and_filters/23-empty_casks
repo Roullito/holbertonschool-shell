@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -name ".*" | cut -f 4
+find . -empty | cut -f 4
